@@ -13,3 +13,6 @@
 [0705/151018:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Acesso negado. (0x5)
 [0705/151018:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
 [0705/151018:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Acesso negado. (0x5)
+[0710/221552:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Acesso negado. (0x5)
+[0710/221552:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0710/221552:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Acesso negado. (0x5)

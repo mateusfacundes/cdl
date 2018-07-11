@@ -86,10 +86,10 @@ a:focus, a:hover {
 
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
   outline: none;
-  background-color: transparent;
+  background-color: #3e578e;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 800px) {
   #mainNav {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -116,7 +116,7 @@ a:focus, a:hover {
 }
 
 .icone{
-  width: 70%;
+  width: 80%;
   height: auto;
 }
 .masthead {
